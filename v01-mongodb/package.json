@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "mongodb": "^5.1.0"
-  },
-  "scripts": {
-    "start": "nodemon ."
-  }
-}
